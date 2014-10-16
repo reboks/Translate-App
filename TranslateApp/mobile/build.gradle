@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.example.mtthw_000.translateapp"
+        applicationId "com.example.bmh0011.translate"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 1
@@ -21,4 +21,5 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/microsoft-translator-java-api-0.6.1-jar-war-dependencies(1).jar')
 }
