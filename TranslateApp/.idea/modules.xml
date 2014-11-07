@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TranslateApp.iml" filepath="$PROJECT_DIR$/TranslateApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Language/Language.iml" filepath="$PROJECT_DIR$/Language/Language.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Translate.iml" filepath="$PROJECT_DIR$/Translate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Translation/Translation.iml" filepath="$PROJECT_DIR$/Translation/Translation.iml" />
       <module fileurl="file://$PROJECT_DIR$/glass/glass.iml" filepath="$PROJECT_DIR$/glass/glass.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
     </modules>
